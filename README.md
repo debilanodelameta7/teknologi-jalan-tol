@@ -1,6 +1,4 @@
-Teknologi Jalan Tol
-
-Teknologi jalan tol ala Delameta Bilano, Delameta Bilano is a National Company that experienced as a producer of control system technology in transportation payment in Indonesia
+Teknologi Jalan Tol - Teknologi jalan tol ala Delameta Bilano, Delameta Bilano is a National Company that experienced as a producer of control system technology in transportation payment in Indonesia
 
 # PERMUDAH TRANSAKSI TOL HANYA GUNAKAN APLIKASI UNTUK SEMUA GOLONGAN JENIS KENDARAAN
 
@@ -14,7 +12,7 @@ Sementara itu Kepala Sub Bidang Operasi dan Pemeliharaan I, Sekretariat BPJT Gal
 
 Galuh menambahkan, rencananya MLFF akan mulai diperkenalkan kepada masyarakat pada akhir 2022 dan diujicobakan di beberapa ruas jalan tol pada 2023. Untuk itu menurutnya, perlu dukungan dari banyak pihak agar masa transisi dari transaksi tol menggunakan uang elektronik ke nir sentuh dapat berjalan dengan baik.
 
-Baca juga, <a href="https://delameta.com/tenologi-jalan-tol/">Teknologi Jalan Tol</a>
+Baca juga, <a href="https://delameta.com/teknologi-jalan-tol/">Teknologi Jalan Tol</a>
 
 “Untuk melaksanakan MLFF kita menggunakan skema kerja sama pemerintah dengan badan usaha, sehingga pengadaan sistem ini menggunakan investasi swasta. Regulasi terkait implementasi MLFF telah tersedia, namun diperlukan aturan turunan untuk beberapa ketentuan teknis yang saat ini dalam tahap finalisasi,” jelas Galuh.
 
